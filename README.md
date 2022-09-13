@@ -1,12 +1,12 @@
-<h1 align="center">Hello 👋 , I'm  Shibli </h1>
-<h3 align="center">Full-stack & Mobile Application developer</h3>
+![syed shibli mahmud](./assets/shibli-cover.png)
+
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibli21)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shibli21)
+[![Protfolio](https://img.shields.io/badge/Website-3b5998?style-square&logo=google-chrome&logoColor=white)](https://syedshiblimahmud.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shibli21)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shelbyy____)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibli21)
-[![Reddit](https://img.shields.io/badge/Website-3b5998?style-square&logo=google-chrome&logoColor=white)](https://syedshiblimahmud.vercel.app)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shibli21)
 
 </div>
 
@@ -21,5 +21,5 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shibli21&theme=tokyonight&include_all_commits=false&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shibli21&theme=tokyonight" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=shibli21&theme=github" />
+ 
 </div>
